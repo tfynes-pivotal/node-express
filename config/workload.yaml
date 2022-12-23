@@ -9,6 +9,6 @@ metadata:
 spec:
   source:
     git:
-      url: <https URL for your generated project's Git repository>
+      url: https://github.com/ADuckPond/node-express
       ref:
         branch: main
