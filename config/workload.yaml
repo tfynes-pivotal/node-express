@@ -9,6 +9,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/ADuckPond/node-express
+      url: https://github.com/tfynes-pivotal/node-express
       ref:
         branch: main
